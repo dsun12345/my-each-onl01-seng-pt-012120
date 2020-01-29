@@ -7,7 +7,7 @@ def my_each(array)
   end
   
 else
-  
+  puts 
   
 end
 
